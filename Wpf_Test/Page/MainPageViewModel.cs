@@ -8,6 +8,6 @@ namespace Wpf_Test.Page
 {
     public class MainPageViewModel
     {
-        // TEST3
+        // TEST456
     }
 }
